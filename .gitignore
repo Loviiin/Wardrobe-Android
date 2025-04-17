@@ -31,3 +31,12 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Android Studio
+/.idea/
+/build/
+/local.properties
+*.iml
+
+# Firebase
+google-services.json      # Adicione manualmente em cada ambiente
