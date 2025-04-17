@@ -1,7 +1,6 @@
 # Wardrobe-Android 👗
 
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Organize seu guarda-roupa digitalmente e receba sugestões inteligentes de looks!**
 
